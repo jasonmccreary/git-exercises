@@ -3,7 +3,7 @@ This exercise helps practice the basic Git commands for manage changes within a 
 
 For this exercise, create a repository which stores a text file with the [10-day Weather Forecast](https://weather.com/tenday) for your local area. While completing this exercise, log each of your Git commands for review at the end of the exercise.
 
-To exercise each of the Git commands, complete the following steps. **Don't forget to track each Git commands you run** in the `command.log`.
+To exercise each of the Git commands, complete the following steps. **Don't forget to track each Git command you run** in the `command.log`.
 
 1. Create a new Git repository called weather-forecast.
 2. Create a `command.log` file for tracking the Git commands.
