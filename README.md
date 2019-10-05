@@ -1,5 +1,5 @@
 # Git Exercise
-This excersize helps practice the basic Git commands for manage changes within a respository, including: `add`, `commit`, `log`, `rm`, `reset`, `checkout`, and `revert`.
+This exercise helps practice the basic Git commands for manage changes within a respository, including: `add`, `commit`, `log`, `rm`, `reset`, `checkout`, and `revert`.
 
 For this exercise, create a repository which stores a text file with the [10-day Weather Forecast](https://weather.com/tenday) for your local area. While completing this exercise, log each of your Git commands for review at the end of the exercise.
 
