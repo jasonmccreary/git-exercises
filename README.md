@@ -5,7 +5,7 @@ For this exercise, create a repository which stores a text file with the [10-day
 
 To exercise each of the Git commands, complete the following steps. **Don't forget to track each Git command you run** in the `command.log`.
 
-1. Create a new Git repository called weather-forecast.
+1. Create a new Git repository called _weather-forecast_.
 2. Create a `command.log` file for tracking the Git commands.
 3. Add the `command.log` to the repository with the latest commands.
 4. Commit your changes.
@@ -21,7 +21,7 @@ To exercise each of the Git commands, complete the following steps. **Don't forg
 14. Update the forecast with the **last 3 days** of the 10-day forecast.
 15. Commit your changes.
 16. Undo the changes in the last commit.
-17. Update the forecast with the **last 2 days** as separate commits.
-18. Update the forecast with the **eight day** as separate commits.
+17. Update the forecast with the **last 2 days** as a separate commit.
+18. Update the forecast with the **eight day** as a separate commit.
 19. Undo the forecast for the **seventh day**.
 20. Undo the forecast for the **ninth day only**.
